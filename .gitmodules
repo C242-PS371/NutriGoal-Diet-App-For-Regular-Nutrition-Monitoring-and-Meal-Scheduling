@@ -1,0 +1,6 @@
+[submodule "NutriGoal-ML"]
+	path = NutriGoal-ML
+	url = https://github.com/AhmadArifff/Machine-Learning-NutriGoal.git
+[submodule "Nutrigoal-MD"]
+	path = Nutrigoal-MD
+	url = https://github.com/zakoraa/nutrigoal-md.git
